@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terrell, an <a href="https://www.linkedin.com/in/terrell-williams-02bb61322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ">IT Professional</a>☺</h1>
+<h1>Hi, I'm Terrell, an <a href="www.linkedin.com/in/terrell-williams-02bb61322">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
